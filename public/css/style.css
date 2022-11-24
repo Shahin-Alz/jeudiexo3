@@ -1,0 +1,31 @@
+body{
+    height: 500px;
+}
+
+.allcard{
+    display: flex;
+    justify-content: center;
+    height: 400px;
+    
+}
+
+.card2{
+    background-color: rgb(101, 20, 133);
+    /* border: 15px;
+    border-color: rgb(101, 20, 133); */
+}
+
+h1{
+    text-align: center;
+}
+
+button{
+    background-color: blueviolet;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+card{
+    padding: 10px;
+}
